@@ -1,5 +1,3 @@
-# Virtual-train-root-planner
-
 # Virtual-Train-Route-Planner
 
 # Project Overview
